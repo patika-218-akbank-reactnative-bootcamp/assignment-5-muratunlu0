@@ -1,1 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8452829&assignment_repo_type=AssignmentRepo)
+# SpotifyClone
+I developed with React Native
+
+<img src="https://firebasestorage.googleapis.com/v0/b/savas-delisi.appspot.com/o/Screenshot_1663344729.png?alt=media&token=e967429b-378a-4e7a-9c7f-47910de89b28" width="400"> <img src="https://firebasestorage.googleapis.com/v0/b/savas-delisi.appspot.com/o/Screenshot_1663344734.png?alt=media&token=7a5709f1-6c0d-4a79-b993-0a327f95d753" width="400">
